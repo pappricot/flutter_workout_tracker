@@ -1,4 +1,4 @@
-# testingapp
+# Flutter Workout Tracker
 
 A new Flutter application.
 
